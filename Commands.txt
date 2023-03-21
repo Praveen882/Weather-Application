@@ -1,2 +1,4 @@
 npm install
 npm start
+
+npm run deploy -- to host a webiste.
